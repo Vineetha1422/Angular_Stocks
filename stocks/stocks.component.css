@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    border: 1px solid lightslategrey;
+  } 
+  th, td {
+      border: 1px solid lightslategrey;
+  }
+  
+  coloring{
+    color:green;
+  }
+
+  input{
+    margin-top:10px;
+  }
+  
+  button{
+    margin-top:10px;
+    border-radius: 3px;
+    background-color: lightslategrey;
+    height: 30px;
+    width: 80px;
+    border:none;
+    color:rgb(211, 198, 211);
+  }
